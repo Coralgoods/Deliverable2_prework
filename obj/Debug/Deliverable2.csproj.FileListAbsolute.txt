@@ -1,0 +1,12 @@
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/bin/Debug/Deliverable2.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/bin/Debug/Deliverable2.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/obj/Debug/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/obj/Debug/Deliverable2.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2/obj/Debug/Deliverable2.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/bin/Debug/Deliverable2.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/bin/Debug/Deliverable2.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/obj/Debug/Deliverable2.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/obj/Debug/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/obj/Debug/Deliverable2.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable2/Deliverable2_prework/obj/Debug/Deliverable2.pdb
